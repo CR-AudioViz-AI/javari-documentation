@@ -31,7 +31,7 @@
 - Bot system (9 bots, 100% operational)
 - 60+ tools roadmap
 - 1,200+ games platform
-- CRAIverse virtual world
+- Javariverse virtual world
 - 7 revenue streams
 - $600M+ grant strategy
 - Financial projections (5 years)
@@ -151,7 +151,7 @@
 - Getting Started
 - Tool Tutorials (60+ tools)
 - Game Instructions (1,200+ games)
-- CRAIverse Guide
+- Javariverse Guide
 - Avatar Creation
 - Credit System
 - Subscription Management
@@ -355,7 +355,7 @@ Split time between:
 - `/mnt/user-data/outputs/` (your downloads)
 
 ### In GitHub:
-- `CR-AudioViz-AI/crav-documentation` (main repo)
+- `CR-AudioViz-AI/javari-documentation` (main repo)
 - `/owner-docs/MASTER_BIBLE_CONSOLIDATED_V7.md` [57cb64f]
 
 ### Next Files to Push:

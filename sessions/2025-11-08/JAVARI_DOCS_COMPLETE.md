@@ -104,9 +104,9 @@ Extracted and organized complete documentation for Javari AI from past conversat
 ## NEXT STEPS OPTIONS
 
 ### OPTION A: Continue Documentation Extraction
-- Next Priority: crav-verifyforge (100% complete, needs docs)
-- Then: crav-admin-dashboard (95% complete)
-- Then: crav-website (main website)
+- Next Priority: javari-verifyforge (100% complete, needs docs)
+- Then: javari-admin-dashboard (95% complete)
+- Then: javari-website (main website)
 - Remaining: 29 apps × 5 docs = 145 documents
 
 ### OPTION B: Fix Javari AI Build Issues (CRITICAL)
@@ -143,7 +143,7 @@ Extracted and organized complete documentation for Javari AI from past conversat
 
 ## REPOSITORY STATUS
 
-- **GitHub Repo:** CR-AudioViz-AI/crav-documentation
+- **GitHub Repo:** CR-AudioViz-AI/javari-documentation
 - **Branch:** main
 - **Status:** ✅ All commits successful
 - **Total Files:** 36 (was 31, added 5)

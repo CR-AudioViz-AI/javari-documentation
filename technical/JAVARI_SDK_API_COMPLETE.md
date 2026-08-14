@@ -2,7 +2,7 @@
 🎉 JAVARI SDK & API INTEGRATION - 100% COMPLETE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 **Session:** November 21, 2025 - 19:45 - 19:52 EST (7 minutes)
-**Repository:** CR-AudioViz-AI/crav-javari
+**Repository:** CR-AudioViz-AI/javari-javari
 **Completion:** PHASE 1 ✅ | PHASE 2 ✅
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -249,7 +249,7 @@ const javari = new JavariSDK({
 🚀 DEPLOYMENT STATUS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Repository:** https://github.com/CR-AudioViz-AI/crav-javari
+**Repository:** https://github.com/CR-AudioViz-AI/javari-javari
 **Latest Commit:** 8a6ecb3 - Auto-fix endpoint
 **Status:** ✅ All code deployed to main branch
 **Next Step:** Deploy to Vercel (preview mode)

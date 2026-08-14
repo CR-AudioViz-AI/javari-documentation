@@ -3,8 +3,8 @@
 **Last Updated:** November 8, 2025  
 **Version:** 1.0 (95% Complete)  
 **Status:** DEPLOYED & OPERATIONAL  
-**Repository:** [CR-AudioViz-AI/crav-javari](https://github.com/CR-AudioViz-AI/crav-javari)  
-**Live URL:** crav-javari-77b6mtat5-roy-hendersons-projects-1d3d5e94.vercel.app (Preview)
+**Repository:** [CR-AudioViz-AI/javari-javari](https://github.com/CR-AudioViz-AI/javari-javari)  
+**Live URL:** javari-javari-77b6mtat5-roy-hendersons-projects-1d3d5e94.vercel.app (Preview)
 
 ---
 
@@ -33,7 +33,7 @@ Javari AI is not a chatbot - it's an **autonomous AI system** that serves as the
 - A/B testing of different approaches to same problems
 
 **4. Multi-Agent Orchestration**
-- Coordinate with specialized AI avatars (CRAI, Kairo, Pulse, Scout)
+- Coordinate with specialized AI avatars (JAVARI, Kairo, Pulse, Scout)
 - Parallel task execution across multiple AI instances
 - Peer code review before deployment
 - Collaborative problem-solving for complex challenges
@@ -229,11 +229,11 @@ Main Project: craudiovizai-website
 ├── VERCEL_TOKEN (inherited by ALL sub-projects)
 ├── SUPABASE_SERVICE_KEY (inherited by ALL sub-projects)
 └── Sub-Projects:
-    ├── crav-ebook-creator
+    ├── javari-ebook-creator
     │   └── OPENAI_API_KEY (specific to this app)
-    ├── crav-paycheck-calculator
+    ├── javari-paycheck-calculator
     │   └── STRIPE_SECRET_KEY (specific to this app)
-    └── crav-music-builder
+    └── javari-music-builder
         └── GITHUB_TOKEN (overrides parent's token)
 ```
 
@@ -325,7 +325,7 @@ const project = await supabase.from('projects').insert({
 // Create sub-project with inheritance
 const subproject = await supabase.from('subprojects').insert({
   project_id: project.id,
-  name: 'crav-ebook-creator',
+  name: 'javari-ebook-creator',
   description: 'PDF eBook builder with AI assistance',
   metadata: {
     inherits_credentials: true,
@@ -641,12 +641,12 @@ async function buildFullstackFeature(request: FeatureRequest) {
 
 ## AI-TO-AI COMMUNICATION PROTOCOL
 
-When other AI agents (CRAI, Kairo, Pulse, Scout) interact with Javari:
+When other AI agents (JAVARI, Kairo, Pulse, Scout) interact with Javari:
 
 **Request Format:**
 ```json
 {
-  "requesting_agent": "CRAI",
+  "requesting_agent": "JAVARI",
   "task_type": "build_application",
   "priority": "high",
   "context": {
@@ -685,8 +685,8 @@ When other AI agents (CRAI, Kairo, Pulse, Scout) interact with Javari:
   ],
   "confidence_score": 0.92,
   "deliverables": {
-    "repository_url": "https://github.com/CR-AudioViz-AI/crav-invoice-generator",
-    "deployment_url": "https://crav-invoice-generator-preview.vercel.app",
+    "repository_url": "https://github.com/CR-AudioViz-AI/javari-invoice-generator",
+    "deployment_url": "https://javari-invoice-generator-preview.vercel.app",
     "files_created": 17,
     "lines_of_code": 1243
   },

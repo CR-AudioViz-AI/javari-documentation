@@ -70,24 +70,24 @@ Continue from Step 1: Create PDF Builder Pro repository and initial structure.
 ## 🔑 KEY INFORMATION FOR NEXT SESSION
 
 ### Repositories Fixed (Don't touch unless needed)
-- ✅ crav-javari - TypeScript compliant
-- ✅ crav-verifyforge - TypeScript compliant  
+- ✅ javari-javari - TypeScript compliant
+- ✅ javari-verifyforge - TypeScript compliant  
 - ✅ market-oracle-app - Operational
 
 ### Repositories Ready for Revenue Tools
 **NEW REPOS TO CREATE:**
-1. crav-pdf-builder - PDF Builder Pro
-2. crav-resume-builder - Resume Builder AI
+1. javari-pdf-builder - PDF Builder Pro
+2. javari-resume-builder - Resume Builder AI
 
 **EXISTING REPOS TO COMPLETE:**
-1. crav-invoice-generator (50% done)
-2. crav-logo-studio (30% done)
-3. crav-social-graphics (45% done)
-4. crav-music-builder (25% done)
-5. crav-newsletter (40% done)
-6. crav-ebook-creator (40% done)
-7. crav-site-builder (35% done)
-8. crav-legalease (50% done)
+1. javari-invoice-generator (50% done)
+2. javari-logo-studio (30% done)
+3. javari-social-graphics (45% done)
+4. javari-music-builder (25% done)
+5. javari-newsletter (40% done)
+6. javari-ebook-creator (40% done)
+7. javari-site-builder (35% done)
+8. javari-legalease (50% done)
 
 ---
 
@@ -160,7 +160,7 @@ Continue from Step 1: Create PDF Builder Pro repository and initial structure.
 ## 📁 FILE STRUCTURE (Create This)
 
 ```
-crav-pdf-builder/
+javari-pdf-builder/
 ├── app/
 │   ├── page.tsx (landing page)
 │   ├── dashboard/page.tsx (user dashboard)
@@ -258,7 +258,7 @@ crav-pdf-builder/
 curl -X POST \
   -H "Authorization: token ghp_[REDACTED]" \
   "https://api.github.com/orgs/CR-AudioViz-AI/repos" \
-  -d '{"name":"crav-pdf-builder","private":false}'
+  -d '{"name":"javari-pdf-builder","private":false}'
 ```
 
 ### Deploy to Vercel
@@ -266,7 +266,7 @@ curl -X POST \
 curl -X POST \
   -H "Authorization: Bearer [VERCEL_TOKEN_REDACTED]" \
   "https://api.vercel.com/v13/deployments" \
-  -d '{"name":"crav-pdf-builder","gitSource":{"type":"github","repo":"CR-AudioViz-AI/crav-pdf-builder","ref":"main"}}'
+  -d '{"name":"javari-pdf-builder","gitSource":{"type":"github","repo":"CR-AudioViz-AI/javari-pdf-builder","ref":"main"}}'
 ```
 
 ### Test Supabase
@@ -315,7 +315,7 @@ curl "https://kteobfyferrukqeolofj.supabase.co/rest/v1/" \
 ## 🎯 IMMEDIATE NEXT ACTIONS
 
 1. **Read credentials file:** Current_Credentials11062025.txt
-2. **Create repo:** crav-pdf-builder
+2. **Create repo:** javari-pdf-builder
 3. **Initialize project:** Next.js 14 + TypeScript
 4. **Build core features:** PDF generation engine
 5. **Deploy:** Vercel preview

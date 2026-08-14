@@ -20,7 +20,7 @@
 - **Status:** ✅ DEPLOYED
 - **URL:** Deploying automatically
 - **Features:** Property CRUD, search, filters, stats, MLS ready
-- **Repository:** https://github.com/CR-AudioViz-AI/crav-property-management
+- **Repository:** https://github.com/CR-AudioViz-AI/javari-property-management
 
 ---
 

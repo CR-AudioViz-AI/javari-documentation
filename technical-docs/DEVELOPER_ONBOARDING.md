@@ -39,10 +39,10 @@ This guide will get you productive on the CR AudioViz AI platform in one day.
 git clone https://github.com/CR-AudioViz-AI/craudiovizai-com.git
 
 # Javari AI
-git clone https://github.com/CR-AudioViz-AI/crav-javari-ai.git
+git clone https://github.com/CR-AudioViz-AI/javari-javari-ai.git
 
 # Admin Dashboard
-git clone https://github.com/CR-AudioViz-AI/crav-admin-dashboard.git
+git clone https://github.com/CR-AudioViz-AI/javari-admin-dashboard.git
 ```
 
 **Install Dependencies:**
@@ -50,10 +50,10 @@ git clone https://github.com/CR-AudioViz-AI/crav-admin-dashboard.git
 cd craudiovizai-com
 npm install
 
-cd ../crav-javari-ai
+cd ../javari-javari-ai
 npm install
 
-cd ../crav-admin-dashboard
+cd ../javari-admin-dashboard
 npm install
 ```
 

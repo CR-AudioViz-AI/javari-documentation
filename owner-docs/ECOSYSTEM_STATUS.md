@@ -16,13 +16,13 @@
 ### 2. Property Management System ✅
 - **Time:** 4 minutes
 - **Status:** DEPLOYED
-- **Repository:** https://github.com/CR-AudioViz-AI/crav-property-management
+- **Repository:** https://github.com/CR-AudioViz-AI/javari-property-management
 - **Features:** Property CRUD, search, filters, MLS ready, stats
 
 ### 3. Lead Tracking & CRM ✅
 - **Time:** 5 minutes
 - **Status:** DEPLOYED
-- **Repository:** https://github.com/CR-AudioViz-AI/crav-lead-tracking
+- **Repository:** https://github.com/CR-AudioViz-AI/javari-lead-tracking
 - **Features:** Kanban pipeline, lead scoring, activity tracking, email ready
 
 ---

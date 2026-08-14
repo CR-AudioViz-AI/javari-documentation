@@ -13,23 +13,23 @@
 
 | # | App Name | Category | SDK | Env | Status |
 |---|----------|----------|-----|-----|--------|
-| 1 | crav-ebook-creator | Creative | ✅ | ✅ | Ready |
-| 2 | crav-logo-studio | Creative | ✅ | ✅ | Ready |
-| 3 | crav-site-builder | Creative | ✅ | ✅ | Ready |
-| 4 | crav-pdf-builder | Business | ✅ | ✅ | Ready |
-| 5 | crav-builder | Business | ✅ | ✅ | Ready |
-| 6 | crav-legalease | Business | ✅ | ✅ | Ready |
-| 7 | crav-market-oracle | Analysis | ✅ | ✅ | Ready |
-| 8 | crav-news-compare | Analysis | ✅ | ✅ | Ready |
-| 9 | crav-competitive-intelligence | Analysis | ✅ | ✅ | Ready |
-| 10 | crav-games | Gaming | ✅ | ✅ | Ready |
-| 11 | crav-javari | Developer | ✅ | ✅ | Ready |
+| 1 | javari-ebook-creator | Creative | ✅ | ✅ | Ready |
+| 2 | javari-logo-studio | Creative | ✅ | ✅ | Ready |
+| 3 | javari-site-builder | Creative | ✅ | ✅ | Ready |
+| 4 | javari-pdf-builder | Business | ✅ | ✅ | Ready |
+| 5 | javari-builder | Business | ✅ | ✅ | Ready |
+| 6 | javari-legalease | Business | ✅ | ✅ | Ready |
+| 7 | javari-market-oracle | Analysis | ✅ | ✅ | Ready |
+| 8 | javari-news-compare | Analysis | ✅ | ✅ | Ready |
+| 9 | javari-competitive-intelligence | Analysis | ✅ | ✅ | Ready |
+| 10 | javari-games | Gaming | ✅ | ✅ | Ready |
+| 11 | javari-javari | Developer | ✅ | ✅ | Ready |
 | 12 | agentos-platform | Business | ✅ | ✅ | Ready |
 | 13 | cr-realtor-platform | Business | ✅ | ✅ | Ready |
 | 14 | javari-fcc-scraper | Developer | ✅ | ✅ | Ready |
 | 15 | javari-intelligence-layer | Developer | ✅ | ✅ | Ready |
 | 16 | javari-mdn-scraper | Developer | ✅ | ✅ | Ready |
-| 17 | crav-website | Business | ✅ | ✅ | Ready |
+| 17 | javari-website | Business | ✅ | ✅ | Ready |
 
 **Integration Rate: 100% ✅**
 
@@ -129,30 +129,30 @@ Vercel will auto-deploy all apps via GitHub webhooks within 10-15 minutes
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Batch 1: Initial 14 Apps (20:20 EST)
-1. crav-ebook-creator (d20b4e6, 628d593)
-2. crav-logo-studio (e1ee67f, 0aed4c2)
-3. crav-pdf-builder (09c428c, 585fffd)
-4. crav-builder (3b28481, d8fb749)
-5. crav-legalease (95c5f7b, 63894af)
-6. crav-market-oracle (fa163d4, 067bcb9)
-7. crav-competitive-intelligence (daede59, c3c13e8)
-8. crav-games (2c673f8, c84ed40)
-9. crav-javari (aa5557a, 15dd5ab)
+1. javari-ebook-creator (d20b4e6, 628d593)
+2. javari-logo-studio (e1ee67f, 0aed4c2)
+3. javari-pdf-builder (09c428c, 585fffd)
+4. javari-builder (3b28481, d8fb749)
+5. javari-legalease (95c5f7b, 63894af)
+6. javari-market-oracle (fa163d4, 067bcb9)
+7. javari-competitive-intelligence (daede59, c3c13e8)
+8. javari-games (2c673f8, c84ed40)
+9. javari-javari (aa5557a, 15dd5ab)
 10. cr-realtor-platform (eb94a06, b50b902)
 11. javari-fcc-scraper (fad478f, bdbd387)
 12. javari-intelligence-layer (449ca66, ddd1dfc)
 13. javari-mdn-scraper (ee75ace, 6aa8d37)
-14. crav-website (c384cc3, 2e8b286)
+14. javari-website (c384cc3, 2e8b286)
 
 ## Batch 2: Final 3 Apps (20:29 EST)
-15. crav-site-builder (11b59bb, 2b462f6)
-16. crav-news-compare (b92b6fc, 9c5c9f1)
+15. javari-site-builder (11b59bb, 2b462f6)
+16. javari-news-compare (b92b6fc, 9c5c9f1)
 17. agentos-platform (055e914, 139d96b)
 
 ## Website Embedding System (20:00 EST)
-- crav-website/lib/app-embedder.ts (be53606)
-- crav-website/app/apps/[slug]/page.tsx (2149075)
-- crav-website/app/apps/page.tsx (db5c39e)
+- javari-website/lib/app-embedder.ts (be53606)
+- javari-website/app/apps/[slug]/page.tsx (2149075)
+- javari-website/app/apps/page.tsx (db5c39e)
 
 **Total Commits: 37 across 17 repositories**
 
@@ -189,7 +189,7 @@ By 20:50 EST, all 17 apps will be live with Javari SDK active and monitoring.
 - [ ] Check build logs for "✅ Javari SDK initialized"
 
 ### 2. Test Live App
-- [ ] Visit any app (e.g., crav-market-oracle.vercel.app)
+- [ ] Visit any app (e.g., javari-market-oracle.vercel.app)
 - [ ] Open browser console (F12)
 - [ ] Look for: "✅ Javari SDK initialized for [App Name]"
 - [ ] Refresh page, verify no errors
@@ -291,7 +291,7 @@ By 20:50 EST, all 17 apps will be live with Javari SDK active and monitoring.
 ## Priority 1: Deploy Admin Dashboard (30 min)
 **Why:** Visualize all monitoring data
 **Impact:** See real-time health, errors, performance
-**Action:** Deploy crav-admin-dashboard to Vercel
+**Action:** Deploy javari-admin-dashboard to Vercel
 
 ## Priority 2: Set Vercel Environment Variables (15 min)
 **Why:** Ensure SDK has proper config in production

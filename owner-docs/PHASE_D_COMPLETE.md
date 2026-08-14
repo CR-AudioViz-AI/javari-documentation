@@ -325,7 +325,7 @@ The path to $1M ARR just got a lot shorter.
 
 All files in: `/home/claude/javari-autonomous/lib/`
 
-Ready to push to: `CR-AudioViz-AI/crav-javari`
+Ready to push to: `CR-AudioViz-AI/javari-javari`
 
 ---
 

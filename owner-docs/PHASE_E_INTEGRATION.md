@@ -12,13 +12,13 @@
 - ✅ `lib/self-healing.ts` (550 lines)
 - ✅ `examples.ts` (200 lines)
 
-**Repository:** https://github.com/CR-AudioViz-AI/crav-javari
+**Repository:** https://github.com/CR-AudioViz-AI/javari-javari
 
 ### 2. Vercel Status - READY
-- **Project:** crav-javari
+- **Project:** javari-javari
 - **Framework:** Next.js
 - **Latest Deployment:** READY
-- **URL:** https://crav-javari-3rtbeyrlk-roy-hendersons-projects-1d3d5e94.vercel.app
+- **URL:** https://javari-javari-3rtbeyrlk-roy-hendersons-projects-1d3d5e94.vercel.app
 
 ### 3. Environment Variables - SET
 All credentials from Current_Credentials11062025.txt are configured in Vercel:
@@ -115,7 +115,7 @@ const repairs = javari.getRepairHistory();
 
 ### IMMEDIATE (Next 30 mins)
 1. **Test import in Javari app**
-   - Open crav-javari project
+   - Open javari-javari project
    - Create test page that imports orchestrator
    - Verify no TypeScript errors
 

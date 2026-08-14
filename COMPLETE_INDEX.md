@@ -43,7 +43,7 @@
 
 **Product Knowledge:**
 5. [PLATFORM_USER_GUIDE.md](customer-docs/PLATFORM_USER_GUIDE.md) - All features
-6. [CRAIVERSE_USER_GUIDE.md](customer-docs/CRAIVERSE_USER_GUIDE.md) - Virtual world
+6. [JAVARIVERSE_USER_GUIDE.md](customer-docs/JAVARIVERSE_USER_GUIDE.md) - Virtual world
 7. [GAMES_PLATFORM_GUIDE.md](customer-docs/GAMES_PLATFORM_GUIDE.md) - Games offering
 8. [MARKETPLACE_SELLER_GUIDE.md](customer-docs/MARKETPLACE_SELLER_GUIDE.md) - Marketplace
 
@@ -76,7 +76,7 @@
 
 **Reference:**
 4. [API_DOCUMENTATION.md](customer-docs/API_DOCUMENTATION.md) - Developer questions
-5. [CRAIVERSE_USER_GUIDE.md](customer-docs/CRAIVERSE_USER_GUIDE.md) - Virtual world
+5. [JAVARIVERSE_USER_GUIDE.md](customer-docs/JAVARIVERSE_USER_GUIDE.md) - Virtual world
 6. [GAMES_PLATFORM_GUIDE.md](customer-docs/GAMES_PLATFORM_GUIDE.md) - Games support
 
 **Time to Read All:** ~4 hours  
@@ -91,7 +91,7 @@
 3. [API_DOCUMENTATION.md](customer-docs/API_DOCUMENTATION.md) - Developers only
 
 **Explore Features:**
-4. [CRAIVERSE_USER_GUIDE.md](customer-docs/CRAIVERSE_USER_GUIDE.md) - Virtual world
+4. [JAVARIVERSE_USER_GUIDE.md](customer-docs/JAVARIVERSE_USER_GUIDE.md) - Virtual world
 5. [GAMES_PLATFORM_GUIDE.md](customer-docs/GAMES_PLATFORM_GUIDE.md) - 1,200+ games
 6. [MARKETPLACE_SELLER_GUIDE.md](customer-docs/MARKETPLACE_SELLER_GUIDE.md) - Sell creations
 
@@ -194,7 +194,7 @@ End-user guides for platform users and customers.
     - Authentication
     - Rate limits
 
-13. **CRAIVERSE_USER_GUIDE.md** (28 pages)
+13. **JAVARIVERSE_USER_GUIDE.md** (28 pages)
     - Virtual world overview
     - Avatar creation
     - 20 social impact modules
@@ -337,7 +337,7 @@ Development session tracking.
 **User Documentation:** 100%
 - ✅ Platform guide
 - ✅ Troubleshooting
-- ✅ CRAIverse guide
+- ✅ Javariverse guide
 - ✅ Games platform
 - ✅ Marketplace guide
 
@@ -442,7 +442,7 @@ Development session tracking.
 **Pros:** Free, easy, integrated
 **Cons:** Limited customization
 **Time:** 10 minutes
-**URL:** cr-audioviz-ai.github.io/crav-documentation
+**URL:** cr-audioviz-ai.github.io/javari-documentation
 
 ### Option 2: GitBook (Recommended)
 **Pros:** Professional, searchable, collaborative
@@ -488,7 +488,7 @@ Development session tracking.
 ### Documentation Questions
 - Email: documentation@craudiovizai.com
 - Slack: #documentation
-- GitHub: Open issue in crav-documentation repo
+- GitHub: Open issue in javari-documentation repo
 
 ### Can't Find Something?
 - Use search function

@@ -22,7 +22,7 @@
 ✅ Deployed to Vercel production  
 ✅ Environment variables configured  
 ✅ Documentation complete  
-✅ **JAVARI LIVE:** https://crav-javari-renoby0pe-roy-hendersons-projects-1d3d5e94.vercel.app
+✅ **JAVARI LIVE:** https://javari-javari-renoby0pe-roy-hendersons-projects-1d3d5e94.vercel.app
 
 ### APP 1: CR Realtor Platform Core
 ✅ Repository created  

@@ -14,43 +14,43 @@
 - **Status:** LIVE
 
 ### 2. Property Management System ✅
-- **Repository:** https://github.com/CR-AudioViz-AI/crav-property-management
+- **Repository:** https://github.com/CR-AudioViz-AI/javari-property-management
 - **Features:** Property CRUD, search, filters, MLS integration
 - **Build Time:** 4 minutes
 - **Status:** DEPLOYED
 
 ### 3. Lead Tracking & CRM ✅
-- **Repository:** https://github.com/CR-AudioViz-AI/crav-lead-tracking
+- **Repository:** https://github.com/CR-AudioViz-AI/javari-lead-tracking
 - **Features:** Kanban pipeline, lead scoring, activity tracking
 - **Build Time:** 5 minutes
 - **Status:** DEPLOYED
 
 ### 4. Client Portal ✅
-- **Repository:** https://github.com/CR-AudioViz-AI/crav-client-portal
+- **Repository:** https://github.com/CR-AudioViz-AI/javari-client-portal
 - **Features:** Client dashboard, saved properties, messages, documents
 - **Build Time:** 5 minutes
 - **Status:** DEPLOYED
 
 ### 5. Document Management ✅
-- **Repository:** https://github.com/CR-AudioViz-AI/crav-document-management
+- **Repository:** https://github.com/CR-AudioViz-AI/javari-document-management
 - **Features:** Document storage, e-signature ready, version control
 - **Build Time:** 4 minutes
 - **Status:** DEPLOYED
 
 ### 6. Marketing Tools ✅
-- **Repository:** https://github.com/CR-AudioViz-AI/crav-marketing-tools
+- **Repository:** https://github.com/CR-AudioViz-AI/javari-marketing-tools
 - **Features:** Email campaigns, social media, landing pages
 - **Build Time:** 4 minutes
 - **Status:** DEPLOYED
 
 ### 7. Analytics Dashboard ✅
-- **Repository:** https://github.com/CR-AudioViz-AI/crav-analytics-dashboard
+- **Repository:** https://github.com/CR-AudioViz-AI/javari-analytics-dashboard
 - **Features:** Sales performance, lead sources, commission tracking
 - **Build Time:** 3 minutes
 - **Status:** DEPLOYED
 
 ### 8. Mobile Companion ✅
-- **Repository:** https://github.com/CR-AudioViz-AI/crav-mobile-companion
+- **Repository:** https://github.com/CR-AudioViz-AI/javari-mobile-companion
 - **Features:** Mobile-optimized search, lead capture, property viewing
 - **Build Time:** 4 minutes
 - **Status:** DEPLOYED

@@ -13,8 +13,8 @@
 **Extensions:** pgvector, uuid-ossp
 
 ## REPOSITORIES (21+)
-- crav-website (main) - prj_fmk3PLscIPrcAseKwhjCMBglH8C4
-- crav-javari (Javari AI) - prj_zxjzE2qvMWFWqV0AspGvago6aPV5
+- javari-website (main) - prj_fmk3PLscIPrcAseKwhjCMBglH8C4
+- javari-javari (Javari AI) - prj_zxjzE2qvMWFWqV0AspGvago6aPV5
 - Plus 19 more app repositories
 
 ## DEPLOYMENT

@@ -84,9 +84,9 @@ Fix remaining build failures, build top revenue tools, get to 90% platform compl
 ### 🔧 What They'll Build
 
 **Priority 1: Fix Build Failures (1 hour)**
-- crav-activity-log
-- crav-news
-- crav-news-compare
+- javari-activity-log
+- javari-news
+- javari-news-compare
 - 3 others with TypeScript errors
 
 **Priority 2: PDF Builder Pro (4-6 hours)**

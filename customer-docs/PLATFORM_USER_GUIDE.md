@@ -11,7 +11,7 @@
 - **Home:** Your dashboard
 - **Tools:** Access all 60+ tools
 - **Games:** 1,200+ free games
-- **CRAIverse:** Virtual worlds
+- **Javariverse:** Virtual worlds
 - **Projects:** Your creations
 - **Marketplace:** Buy/sell
 - **Profile:** Account settings
@@ -199,9 +199,9 @@ Each tool has its own AI helper:
 
 ---
 
-## CRAIverse (Virtual World)
+## Javariverse (Virtual World)
 
-### What is CRAIverse?
+### What is Javariverse?
 Your avatar-based virtual workspace where you:
 - Meet other creators
 - Attend events
@@ -210,13 +210,13 @@ Your avatar-based virtual workspace where you:
 - Access tools via avatar
 
 ### Creating Your Avatar
-1. Profile → CRAIverse
+1. Profile → Javariverse
 2. Choose body type
 3. Customize appearance
 4. Select clothing
 5. Save and enter world
 
-### Exploring CRAIverse
+### Exploring Javariverse
 **Main Areas:**
 - **Town Square:** Meet others
 - **Workshop District:** Access tools
@@ -566,7 +566,7 @@ Your avatar-based virtual workspace where you:
 ### Recent Updates
 **November 2025:**
 - ✅ 8 new apps launched
-- ✅ CRAIverse beta
+- ✅ Javariverse beta
 - ✅ Marketplace opened
 - ✅ Mobile app v2.0
 
@@ -617,7 +617,7 @@ A: Yes! Dashboard → Feedback. We prioritize user requests.
 
 - **Credits:** Currency for platform actions
 - **Javari:** Your AI assistant
-- **CRAIverse:** Virtual world platform
+- **Javariverse:** Virtual world platform
 - **Project:** Collection of related items
 - **Export:** Download your creation
 - **Marketplace:** Buy/sell templates & designs
@@ -638,7 +638,7 @@ Export File:        Project → Export → Choose Format
 Share Project:      Project → Share → Copy Link
 Chat with Javari:   Bottom Right Chat Icon
 Access Games:       Dashboard → Games
-Enter CRAIverse:    Dashboard → CRAIverse → Enter
+Enter Javariverse:    Dashboard → Javariverse → Enter
 Contact Support:    Dashboard → Help → Contact
 ```
 

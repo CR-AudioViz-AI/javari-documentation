@@ -17,7 +17,7 @@
 - 50 credits monthly (resets each month)
 - Access to all 60+ creative tools
 - Unlimited games (1,200+ titles)
-- Basic CRAIverse access
+- Basic Javariverse access
 - Community support
 - Full platform access
 
@@ -267,15 +267,15 @@ All organized in one project!
 
 ---
 
-## Games & CRAIverse
+## Games & Javariverse
 
 ### Q: Are games really free?
 
 **A:** Yes! All 1,200+ games are completely free - no credits required, no time limits, no restrictions. Play as much as you want!
 
-### Q: What is CRAIverse?
+### Q: What is Javariverse?
 
-**A:** CRAIverse is our virtual world platform where you can:
+**A:** Javariverse is our virtual world platform where you can:
 - Create and customize avatars
 - Explore virtual environments
 - Join communities

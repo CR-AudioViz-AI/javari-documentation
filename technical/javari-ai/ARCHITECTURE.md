@@ -2,7 +2,7 @@
 
 **Last Updated:** November 8, 2025  
 **Version:** 1.0  
-**Repository:** [CR-AudioViz-AI/crav-javari](https://github.com/CR-AudioViz-AI/crav-javari)  
+**Repository:** [CR-AudioViz-AI/javari-javari](https://github.com/CR-AudioViz-AI/javari-javari)  
 **Technical Lead:** Roy Henderson (CEO/CTO)
 
 ---
@@ -56,7 +56,7 @@ Javari AI is a Next.js 14 application built with TypeScript, deployed on Vercel,
 - Rollback: Easy to revert if issues found
 
 **Current URLs:**
-- Preview: `crav-javari-77b6mtat5-roy-hendersons-projects-1d3d5e94.vercel.app`
+- Preview: `javari-javari-77b6mtat5-roy-hendersons-projects-1d3d5e94.vercel.app`
 - Production (planned): `javariai.com`
 
 ### Environment Variables

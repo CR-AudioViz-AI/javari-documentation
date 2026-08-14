@@ -331,9 +331,9 @@
 
 ---
 
-## CRAIverse Issues
+## Javariverse Issues
 
-### Can't Enter CRAIverse
+### Can't Enter Javariverse
 
 **Solutions:**
 1. **Update browser:** WebGL required
@@ -346,7 +346,7 @@
 **Problem:** Avatar not showing/glitching
 
 **Solutions:**
-1. **Recreate avatar:** Profile → CRAIverse → Edit
+1. **Recreate avatar:** Profile → Javariverse → Edit
 2. **Reset appearance:** Use default template
 3. **Clear cache:** Reload world
 4. **Update graphics drivers**

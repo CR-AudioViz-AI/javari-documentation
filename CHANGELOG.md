@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 🎉 Initial Release
 
-**Repository Created:** crav-documentation
+**Repository Created:** javari-documentation
 **Purpose:** Comprehensive documentation for all CR AudioViz AI systems
 
 ### Added

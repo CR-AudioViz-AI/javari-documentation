@@ -35,8 +35,8 @@ Access 1,200+ professionally curated games across 20+ categories. Play instantly
    - Login with main account
    - Instant access
 
-3. **CRAIverse**
-   - Virtual arcade in CRAIverse
+3. **Javariverse**
+   - Virtual arcade in Javariverse
    - Play with avatar
    - Social gaming experience
 
@@ -643,7 +643,7 @@ Current top 10 most-played games are always free!
 - Discord: #games channel
 - Reddit: r/craudiovizai-games
 - Facebook: CR AudioViz Games group
-- Twitter: @cravgames
+- Twitter: @javarigames
 - Forums: community.craudiovizai.com
 
 ### Community Events

@@ -17,7 +17,7 @@
 5. [Bot System Tables](#bot-system-tables)
 6. [Applications & Tools](#applications--tools)
 7. [Games Platform](#games-platform)
-8. [CRAIverse](#craiverse)
+8. [Javariverse](#javariverse)
 9. [Social Impact Modules](#social-impact-modules)
 10. [Analytics & Logs](#analytics--logs)
 
@@ -599,7 +599,7 @@ CREATE INDEX idx_leaderboard_game ON game_leaderboards(game_id, score DESC);
 
 ---
 
-## CRAIVERSE
+## JAVARIVERSE
 
 ### `avatars`
 **Purpose:** User avatars in virtual world
@@ -619,7 +619,7 @@ CREATE INDEX idx_avatars_user ON avatars(user_id);
 ```
 
 ### `virtual_spaces`
-**Purpose:** CRAIverse locations
+**Purpose:** Javariverse locations
 
 ```sql
 CREATE TABLE virtual_spaces (

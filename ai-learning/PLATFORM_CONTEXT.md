@@ -23,7 +23,7 @@
 
 ### AI Team (Avatars)
 - **Javari AI:** Master Builder / CTO - Autonomous development
-- **CRAI:** Community Director - Social impact
+- **JAVARI:** Community Director - Social impact
 - **Kairo:** Creative Director - Design & aesthetics
 - **Pulse:** Analytics & Support - Data & user help
 - **Scout:** Innovation Finder - Research & trends
@@ -174,7 +174,7 @@
 - 🔧 Top 10 revenue tools
 - 🔧 Advanced features
 - 🔧 Platform integration
-- 🔧 CRAIverse virtual world
+- 🔧 Javariverse virtual world
 
 ---
 
@@ -194,7 +194,7 @@
 ### For AI Bots
 ```typescript
 // Read platform documentation
-const docs = await fetch('https://raw.githubusercontent.com/CR-AudioViz-AI/crav-documentation/main/')
+const docs = await fetch('https://raw.githubusercontent.com/CR-AudioViz-AI/javari-documentation/main/')
 
 // Access Supabase
 import { createClient } from '@supabase/supabase-js'

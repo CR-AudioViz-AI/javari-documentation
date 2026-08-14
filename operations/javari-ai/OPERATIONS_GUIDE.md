@@ -26,7 +26,7 @@ This guide provides complete operational procedures for managing, monitoring, an
 
 **Deployment URLs:**
 - **Production:** javariai.com
-- **Preview:** crav-javari-77b6mtat5-roy-hendersons-projects-1d3d5e94.vercel.app
+- **Preview:** javari-javari-77b6mtat5-roy-hendersons-projects-1d3d5e94.vercel.app
 - **API:** api.craudiovizai.com/javari
 
 **Geographic Distribution:**
@@ -66,16 +66,16 @@ git push origin main
 5. Sends notification
 
 # Preview URL format:
-# crav-javari-[hash]-roy-hendersons-projects.vercel.app
+# javari-javari-[hash]-roy-hendersons-projects.vercel.app
 ```
 
 **Manual Deployment (Production):**
 ```bash
 # 1. Verify preview deployment success
-curl https://crav-javari-latest.vercel.app/api/health
+curl https://javari-javari-latest.vercel.app/api/health
 
 # 2. Promote to production via Vercel dashboard
-vercel promote crav-javari-[deployment-id] --prod
+vercel promote javari-javari-[deployment-id] --prod
 
 # 3. Verify production health
 curl https://javariai.com/api/health
@@ -205,7 +205,7 @@ Response:
 ### Performance Dashboards
 
 **Vercel Analytics:**
-- URL: https://vercel.com/CR-AudioViz-AI/crav-javari/analytics
+- URL: https://vercel.com/CR-AudioViz-AI/javari-javari/analytics
 - Metrics:
   - Real User Monitoring (RUM)
   - Core Web Vitals
@@ -236,13 +236,13 @@ Response:
 **Access Logs:**
 ```bash
 # View real-time logs
-vercel logs crav-javari --follow
+vercel logs javari-javari --follow
 
 # Filter by severity
-vercel logs crav-javari --severity error
+vercel logs javari-javari --severity error
 
 # Search logs
-vercel logs crav-javari --query "database connection"
+vercel logs javari-javari --query "database connection"
 ```
 
 **Application Logs:**
@@ -460,7 +460,7 @@ export async function GET() {
 **Verify Execution:**
 ```bash
 # Check Vercel cron logs
-vercel logs crav-javari --output json | jq 'select(.path | contains("/cron/"))'
+vercel logs javari-javari --output json | jq 'select(.path | contains("/cron/"))'
 
 # Expected: Successful execution every 30 min
 # Alert if: No execution in 1 hour
@@ -880,7 +880,7 @@ Estimated Recovery: 4 hours
 **Deploy to Production:**
 ```bash
 # 1. Verify preview
-curl https://crav-javari-latest.vercel.app/api/health
+curl https://javari-javari-latest.vercel.app/api/health
 
 # 2. Promote
 vercel promote [deployment-id] --prod

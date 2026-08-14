@@ -4,7 +4,7 @@
 ## Purpose
 This directory contains structured knowledge for:
 - 🤖 Javari AI (Master Builder)
-- 🎯 CRAI (Community Director)
+- 🎯 JAVARI (Community Director)
 - 🎨 Kairo (Creative Director)
 - 📊 Pulse (Analytics & Support)
 - 🔍 Scout (Innovation Finder)
@@ -21,7 +21,7 @@ This directory contains structured knowledge for:
 ```typescript
 // How AI bots read this corpus
 const context = await fetch(
-  'https://raw.githubusercontent.com/CR-AudioViz-AI/crav-documentation/main/ai-learning/...'
+  'https://raw.githubusercontent.com/CR-AudioViz-AI/javari-documentation/main/ai-learning/...'
 )
 ```
 

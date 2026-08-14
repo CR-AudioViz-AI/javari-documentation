@@ -26,7 +26,7 @@
 
 ### Hosting
 - **Platform:** Vercel
-- **Domain:** crav-market-oracle.vercel.app
+- **Domain:** javari-market-oracle.vercel.app
 - **Environment:** Preview deployments only (cost control)
 
 ## 📁 Repository Structure

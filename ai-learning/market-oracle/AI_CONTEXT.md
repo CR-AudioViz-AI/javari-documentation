@@ -1,5 +1,5 @@
 # MARKET ORACLE - AI LEARNING CONTEXT
-**For: Javari AI, CRAI, Kairo, Pulse, Scout**
+**For: Javari AI, JAVARI, Kairo, Pulse, Scout**
 
 ## 🎯 App Purpose
 Market Oracle is an AI battle platform where 5 different AIs compete to pick the best-performing penny stocks.

@@ -22,10 +22,10 @@
 
 **Total:** 1 repositories
 
-### crav-website
+### javari-website
 
-**Description:** JavariAI & Craiverse - The Unified Internet 
-**URL:** https://github.com/CR-AudioViz-AI/crav-website
+**Description:** JavariAI & Javariverse - The Unified Internet 
+**URL:** https://github.com/CR-AudioViz-AI/javari-website
 **Language:** TypeScript
 **Size:** 27343 KB
 **Last Updated:** 2025-11-20
@@ -38,297 +38,297 @@
 
 **Total:** 30 repositories
 
-### crav-admin
+### javari-admin
 
 **Description:** CR AudioViz AI Admin Dashboard - 13 management cards for complete business operations
-**URL:** https://github.com/CR-AudioViz-AI/crav-admin
+**URL:** https://github.com/CR-AudioViz-AI/javari-admin
 **Language:** TypeScript
 **Size:** 35 KB
 **Last Updated:** 2025-11-07
 **Visibility:** public
 **Live URL:** https://craudiovizai-admin-dashboard.vercel.app
 
-### crav-analytics-dashboard
+### javari-analytics-dashboard
 
 **Description:** Analytics Dashboard - Business intelligence and reporting
-**URL:** https://github.com/CR-AudioViz-AI/crav-analytics-dashboard
+**URL:** https://github.com/CR-AudioViz-AI/javari-analytics-dashboard
 **Language:** TypeScript
 **Size:** 0 KB
 **Last Updated:** 2025-11-21
 **Visibility:** public
 
-### crav-auth
+### javari-auth
 
 **Description:** CR AudioViz AI Authentication System - Sign up, sign in, password reset, email verification
-**URL:** https://github.com/CR-AudioViz-AI/crav-auth
+**URL:** https://github.com/CR-AudioViz-AI/javari-auth
 **Language:** Not specified
 **Size:** 3 KB
 **Last Updated:** 2025-11-06
 **Visibility:** public
-**Live URL:** https://crav-legalease-6qsm.vercel.app
+**Live URL:** https://javari-legalease-6qsm.vercel.app
 
-### crav-brand-system
+### javari-brand-system
 
 **Description:** Universal brand management system for CR AudioViz AI - Colors, fonts, logos, guidelines. Auto-apply brands across all apps and exports.
-**URL:** https://github.com/CR-AudioViz-AI/crav-brand-system
+**URL:** https://github.com/CR-AudioViz-AI/javari-brand-system
 **Language:** Not specified
 **Size:** 0 KB
 **Last Updated:** 2025-11-20
 **Visibility:** private
 
-### crav-builder
+### javari-builder
 
 **Description:** No description
-**URL:** https://github.com/CR-AudioViz-AI/crav-builder
+**URL:** https://github.com/CR-AudioViz-AI/javari-builder
 **Language:** TypeScript
 **Size:** 138 KB
 **Last Updated:** 2025-11-07
 **Visibility:** public
-**Live URL:** https://crav-builder-web.vercel.app
+**Live URL:** https://javari-builder-web.vercel.app
 
-### crav-competitive-intelligence
+### javari-competitive-intelligence
 
 **Description:** Competitive Intelligence Dashboard - Track competitors, features, pricing, news, and customer feedback. Feed insights to Javari AI.
-**URL:** https://github.com/CR-AudioViz-AI/crav-competitive-intelligence
+**URL:** https://github.com/CR-AudioViz-AI/javari-competitive-intelligence
 **Language:** TypeScript
 **Size:** 94 KB
 **Last Updated:** 2025-11-20
 **Visibility:** private
-**Live URL:** https://crav-competitive-intelligence.vercel.app
+**Live URL:** https://javari-competitive-intelligence.vercel.app
 
-### crav-components
+### javari-components
 
 **Description:** Universal Credits System & Shared Components for CR AudioViz AI Platform
-**URL:** https://github.com/CR-AudioViz-AI/crav-components
+**URL:** https://github.com/CR-AudioViz-AI/javari-components
 **Language:** Not specified
 **Size:** 2 KB
 **Last Updated:** 2025-11-06
 **Visibility:** public
-**Live URL:** https://crav-components.vercel.app
+**Live URL:** https://javari-components.vercel.app
 
-### crav-dashboard
+### javari-dashboard
 
-**Description:** CRAV Dashboard (Next.js) — unified, canonical dashboard app.
-**URL:** https://github.com/CR-AudioViz-AI/crav-dashboard
+**Description:** javari Dashboard (Next.js) — unified, canonical dashboard app.
+**URL:** https://github.com/CR-AudioViz-AI/javari-dashboard
 **Language:** TypeScript
 **Size:** 227210 KB
 **Last Updated:** 2025-11-07
 **Visibility:** public
-**Live URL:** https://crav-dashboard-app-roy-hendersons-projects-1d3d5e94.vercel.app
+**Live URL:** https://javari-dashboard-app-roy-hendersons-projects-1d3d5e94.vercel.app
 
-### crav-document-management
+### javari-document-management
 
 **Description:** Document Management - Secure storage and e-signatures
-**URL:** https://github.com/CR-AudioViz-AI/crav-document-management
+**URL:** https://github.com/CR-AudioViz-AI/javari-document-management
 **Language:** TypeScript
 **Size:** 0 KB
 **Last Updated:** 2025-11-21
 **Visibility:** public
 
-### crav-ebook-creator
+### javari-ebook-creator
 
 **Description:** No description
-**URL:** https://github.com/CR-AudioViz-AI/crav-ebook-creator
+**URL:** https://github.com/CR-AudioViz-AI/javari-ebook-creator
 **Language:** TypeScript
 **Size:** 509 KB
 **Last Updated:** 2025-11-16
 **Visibility:** public
-**Live URL:** https://crav-ebook-creator-app.vercel.app
+**Live URL:** https://javari-ebook-creator-app.vercel.app
 
-### crav-export-engine
+### javari-export-engine
 
-**Description:** Universal export library for CR AudioViz AI - PSD, AI, SVG, PDF with print specs, high-res images, EPUB, MOBI. Used across all CRAV apps.
-**URL:** https://github.com/CR-AudioViz-AI/crav-export-engine
+**Description:** Universal export library for CR AudioViz AI - PSD, AI, SVG, PDF with print specs, high-res images, EPUB, MOBI. Used across all javari apps.
+**URL:** https://github.com/CR-AudioViz-AI/javari-export-engine
 **Language:** Not specified
 **Size:** 0 KB
 **Last Updated:** 2025-11-20
 **Visibility:** private
 
-### crav-games
+### javari-games
 
 **Description:** No description
-**URL:** https://github.com/CR-AudioViz-AI/crav-games
+**URL:** https://github.com/CR-AudioViz-AI/javari-games
 **Language:** JavaScript
 **Size:** 1275 KB
 **Last Updated:** 2025-11-18
 **Visibility:** public
-**Live URL:** https://crav-micro-games-app-roy-hendersons-projects-1d3d5e94.vercel.app
+**Live URL:** https://javari-micro-games-app-roy-hendersons-projects-1d3d5e94.vercel.app
 
-### crav-invoice-generator
+### javari-invoice-generator
 
 **Description:** Professional invoice generator with templates, tax calculations, and PDF export
-**URL:** https://github.com/CR-AudioViz-AI/crav-invoice-generator
+**URL:** https://github.com/CR-AudioViz-AI/javari-invoice-generator
 **Language:** TypeScript
 **Size:** 21 KB
 **Last Updated:** 2025-11-16
 **Visibility:** public
-**Live URL:** https://crav-invoice-generator.vercel.app
+**Live URL:** https://craudiovizai.com/apps/invoice-generator
 
-### crav-javari
+### javari-javari
 
 **Description:** Javari AI - Autonomous, Self-Healing AI Assistant for CR AudioViz AI
-**URL:** https://github.com/CR-AudioViz-AI/crav-javari
+**URL:** https://github.com/CR-AudioViz-AI/javari-javari
 **Language:** TypeScript
 **Size:** 4417 KB
 **Last Updated:** 2025-11-21
 **Visibility:** public
 **Live URL:** https://javariai.com
 
-### crav-legalease
+### javari-legalease
 
 **Description:** Professional AI-powered legal document translation platform - Part of CR AudioViz AI
-**URL:** https://github.com/CR-AudioViz-AI/crav-legalease
+**URL:** https://github.com/CR-AudioViz-AI/javari-legalease
 **Language:** TypeScript
 **Size:** 188 KB
 **Last Updated:** 2025-11-18
 **Visibility:** public
-**Live URL:** https://crav-legalease.vercel.app
+**Live URL:** https://craudiovizai.com/apps/legalease
 
-### crav-logo-studio
+### javari-logo-studio
 
 **Description:** No description
-**URL:** https://github.com/CR-AudioViz-AI/crav-logo-studio
+**URL:** https://github.com/CR-AudioViz-AI/javari-logo-studio
 **Language:** TypeScript
 **Size:** 675 KB
 **Last Updated:** 2025-11-16
 **Visibility:** public
-**Live URL:** https://crav-logo-studio-app-roy-hendersons-projects-1d3d5e94.vercel.app
+**Live URL:** https://javari-logo-studio-app-roy-hendersons-projects-1d3d5e94.vercel.app
 
-### crav-market-forge
+### javari-market-forge
 
 **Description:** No description
-**URL:** https://github.com/CR-AudioViz-AI/crav-market-forge
+**URL:** https://github.com/CR-AudioViz-AI/javari-market-forge
 **Language:** TypeScript
 **Size:** 206 KB
 **Last Updated:** 2025-11-18
 **Visibility:** public
-**Live URL:** https://crav-market-forge-app.vercel.app
+**Live URL:** https://javari-market-forge-app.vercel.app
 
-### crav-market-oracle
+### javari-market-oracle
 
 **Description:** Market Oracle v2.0 ULTIMATE - AI-Powered Penny Stock Predictions
-**URL:** https://github.com/CR-AudioViz-AI/crav-market-oracle
+**URL:** https://github.com/CR-AudioViz-AI/javari-market-oracle
 **Language:** TypeScript
 **Size:** 388 KB
 **Last Updated:** 2025-11-18
 **Visibility:** public
 
-### crav-marketing-tools
+### javari-marketing-tools
 
 **Description:** Marketing Tools - Campaigns, social media, landing pages
-**URL:** https://github.com/CR-AudioViz-AI/crav-marketing-tools
+**URL:** https://github.com/CR-AudioViz-AI/javari-marketing-tools
 **Language:** TypeScript
 **Size:** 0 KB
 **Last Updated:** 2025-11-21
 **Visibility:** public
 
-### crav-mobile-companion
+### javari-mobile-companion
 
 **Description:** Mobile Companion - Mobile-optimized property search and lead capture
-**URL:** https://github.com/CR-AudioViz-AI/crav-mobile-companion
+**URL:** https://github.com/CR-AudioViz-AI/javari-mobile-companion
 **Language:** TypeScript
 **Size:** 0 KB
 **Last Updated:** 2025-11-21
 **Visibility:** public
 
-### crav-music-builder
+### javari-music-builder
 
 **Description:** No description
-**URL:** https://github.com/CR-AudioViz-AI/crav-music-builder
+**URL:** https://github.com/CR-AudioViz-AI/javari-music-builder
 **Language:** TypeScript
 **Size:** 175 KB
 **Last Updated:** 2025-11-07
 **Visibility:** public
-**Live URL:** https://crav-music-builder-app-roy-hendersons-projects-1d3d5e94.vercel.app
+**Live URL:** https://javari-music-builder-app-roy-hendersons-projects-1d3d5e94.vercel.app
 
-### crav-news
+### javari-news
 
-**Description:** CRAV News - Professional news aggregator with web and mobile apps
-**URL:** https://github.com/CR-AudioViz-AI/crav-news
+**Description:** javari News - Professional news aggregator with web and mobile apps
+**URL:** https://github.com/CR-AudioViz-AI/javari-news
 **Language:** TypeScript
 **Size:** 139 KB
 **Last Updated:** 2025-11-07
 **Visibility:** private
-**Live URL:** https://crav-news-roy-hendersons-projects-1d3d5e94.vercel.app
+**Live URL:** https://javari-news-roy-hendersons-projects-1d3d5e94.vercel.app
 
-### crav-news-compare
+### javari-news-compare
 
 **Description:** Conservative vs Liberal news comparison platform with international reporting, JavariAI integration, and embeddable dashboard
-**URL:** https://github.com/CR-AudioViz-AI/crav-news-compare
+**URL:** https://github.com/CR-AudioViz-AI/javari-news-compare
 **Language:** TypeScript
 **Size:** 84 KB
 **Last Updated:** 2025-11-18
 **Visibility:** public
-**Live URL:** https://crav-news-compare-roy-hendersons-projects-1d3d5e94.vercel.app
+**Live URL:** https://javari-news-compare-roy-hendersons-projects-1d3d5e94.vercel.app
 
-### crav-newsletter
+### javari-newsletter
 
 **Description:** No description
-**URL:** https://github.com/CR-AudioViz-AI/crav-newsletter
+**URL:** https://github.com/CR-AudioViz-AI/javari-newsletter
 **Language:** TypeScript
 **Size:** 269 KB
 **Last Updated:** 2025-11-18
 **Visibility:** public
-**Live URL:** https://crav-newsletter-web-roy-hendersons-projects-1d3d5e94.vercel.app
+**Live URL:** https://javari-newsletter-web-roy-hendersons-projects-1d3d5e94.vercel.app
 
-### crav-ops-center
+### javari-ops-center
 
 **Description:** AI Operations Command Center v3.1 - Network monitoring and service health dashboard
-**URL:** https://github.com/CR-AudioViz-AI/crav-ops-center
+**URL:** https://github.com/CR-AudioViz-AI/javari-ops-center
 **Language:** HTML
 **Size:** 158 KB
 **Last Updated:** 2025-11-18
 **Visibility:** public
 **Live URL:** https://ai-ops-center.vercel.app
 
-### crav-pdf-builder
+### javari-pdf-builder
 
 **Description:** Professional PDF Builder Pro with AI-powered content generation
-**URL:** https://github.com/CR-AudioViz-AI/crav-pdf-builder
+**URL:** https://github.com/CR-AudioViz-AI/javari-pdf-builder
 **Language:** TypeScript
 **Size:** 79 KB
 **Last Updated:** 2025-11-18
 **Visibility:** public
-**Live URL:** https://crav-pdf-builder.vercel.app
+**Live URL:** https://craudiovizai.com/apps/pdf-builder
 
-### crav-site-builder
+### javari-site-builder
 
 **Description:** No description
-**URL:** https://github.com/CR-AudioViz-AI/crav-site-builder
+**URL:** https://github.com/CR-AudioViz-AI/javari-site-builder
 **Language:** TypeScript
 **Size:** 398 KB
 **Last Updated:** 2025-11-18
 **Visibility:** public
-**Live URL:** https://crav-site-builder-app.vercel.app
+**Live URL:** https://javari-site-builder-app.vercel.app
 
-### crav-social-graphics
+### javari-social-graphics
 
 **Description:** Professional social media graphics creator with templates for Instagram, Facebook, Twitter, LinkedIn, YouTube, Pinterest
-**URL:** https://github.com/CR-AudioViz-AI/crav-social-graphics
+**URL:** https://github.com/CR-AudioViz-AI/javari-social-graphics
 **Language:** TypeScript
 **Size:** 25 KB
 **Last Updated:** 2025-11-16
 **Visibility:** public
 
-### crav-verifyforge
+### javari-verifyforge
 
 **Description:** VerifyForge AI - AI-powered testing platform for websites, apps, and games
-**URL:** https://github.com/CR-AudioViz-AI/crav-verifyforge
+**URL:** https://github.com/CR-AudioViz-AI/javari-verifyforge
 **Language:** TypeScript
 **Size:** 405 KB
 **Last Updated:** 2025-11-16
 **Visibility:** public
 **Live URL:** https://verifyforge-ai-roy-hendersons-projects-1d3d5e94.vercel.app
 
-### crav-webhooks
+### javari-webhooks
 
 **Description:** Automated Stripe webhook handler for payment processing and credit delivery
-**URL:** https://github.com/CR-AudioViz-AI/crav-webhooks
+**URL:** https://github.com/CR-AudioViz-AI/javari-webhooks
 **Language:** JavaScript
 **Size:** 14 KB
 **Last Updated:** 2025-11-06
 **Visibility:** public
-**Live URL:** https://crav-stripe-webhooks-roy-hendersons-projects-1d3d5e94.vercel.app
+**Live URL:** https://javari-stripe-webhooks-roy-hendersons-projects-1d3d5e94.vercel.app
 
 ---
 
@@ -354,28 +354,28 @@
 **Last Updated:** 2025-11-21
 **Visibility:** public
 
-### crav-client-portal
+### javari-client-portal
 
 **Description:** Client Portal - Secure client communication and property viewing
-**URL:** https://github.com/CR-AudioViz-AI/crav-client-portal
+**URL:** https://github.com/CR-AudioViz-AI/javari-client-portal
 **Language:** TypeScript
 **Size:** 0 KB
 **Last Updated:** 2025-11-21
 **Visibility:** public
 
-### crav-lead-tracking
+### javari-lead-tracking
 
 **Description:** Lead Tracking & CRM - Pipeline management and lead conversion
-**URL:** https://github.com/CR-AudioViz-AI/crav-lead-tracking
+**URL:** https://github.com/CR-AudioViz-AI/javari-lead-tracking
 **Language:** TypeScript
 **Size:** 8 KB
 **Last Updated:** 2025-11-21
 **Visibility:** public
 
-### crav-property-management
+### javari-property-management
 
 **Description:** Property Management System - Complete MLS and listing management
-**URL:** https://github.com/CR-AudioViz-AI/crav-property-management
+**URL:** https://github.com/CR-AudioViz-AI/javari-property-management
 **Language:** TypeScript
 **Size:** 8 KB
 **Last Updated:** 2025-11-21
@@ -387,10 +387,10 @@
 
 **Total:** 2 repositories
 
-### crav-documentation
+### javari-documentation
 
 **Description:** CR AudioViz AI - Master Documentation Hub for Owners, Developers, Helpdesk, Customers, AI, Bots & Avatars
-**URL:** https://github.com/CR-AudioViz-AI/crav-documentation
+**URL:** https://github.com/CR-AudioViz-AI/javari-documentation
 **Language:** Not specified
 **Size:** 186 KB
 **Last Updated:** 2025-11-21
@@ -411,10 +411,10 @@
 
 **Total:** 2 repositories
 
-### crav-activity-log
+### javari-activity-log
 
 **Description:** Enterprise-grade bot/avatar activity monitoring dashboard with multi-tenant support, analytics, and ticket integration
-**URL:** https://github.com/CR-AudioViz-AI/crav-activity-log
+**URL:** https://github.com/CR-AudioViz-AI/javari-activity-log
 **Language:** TypeScript
 **Size:** 105 KB
 **Last Updated:** 2025-11-07
@@ -566,7 +566,7 @@
 **Size:** 826 KB
 **Last Updated:** 2025-11-18
 **Visibility:** public
-**Live URL:** https://crav-market-oracle.vercel.app
+**Live URL:** https://craudiovizai.com/apps/market-oracle
 
 ---
 

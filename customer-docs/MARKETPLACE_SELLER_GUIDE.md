@@ -62,7 +62,7 @@ Sell your creations to millions of users. Keep 80% of every sale. Get paid insta
 - Audio packages
 - Beats and instrumentals
 
-**CRAIverse Items:**
+**Javariverse Items:**
 - Avatar clothing
 - Avatar accessories
 - Home decorations

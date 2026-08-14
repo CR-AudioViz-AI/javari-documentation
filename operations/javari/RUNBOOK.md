@@ -38,10 +38,10 @@
 |---------|-----|---------|
 | **Production App** | https://javariai.com | Main application |
 | **Admin Dashboard** | https://javariai.com/admin | Operations dashboard |
-| **Vercel Dashboard** | https://vercel.com/cr-audioviz-ai/crav-javari | Deployments |
+| **Vercel Dashboard** | https://vercel.com/cr-audioviz-ai/javari-javari | Deployments |
 | **Supabase Dashboard** | https://supabase.com/dashboard/project/kteobfyferrukqeolofj | Database |
 | **Status Page** | https://status.javariai.com | Public status |
-| **GitHub Repo** | https://github.com/CR-AudioViz-AI/crav-javari | Source code |
+| **GitHub Repo** | https://github.com/CR-AudioViz-AI/javari-javari | Source code |
 
 ### Quick Commands
 
@@ -188,7 +188,7 @@ git pull origin main
 vercel --token=$VERCEL_TOKEN
 
 # 3. Get preview URL from output
-# Preview URL: https://crav-javari-abc123.vercel.app
+# Preview URL: https://javari-javari-abc123.vercel.app
 
 # 4. Test preview deployment
 # - Run smoke tests
@@ -501,7 +501,7 @@ HAVING COUNT(*) FILTER (WHERE status >= 500) * 100.0 / COUNT(*) > 1.0;
 ### Monitoring Dashboards
 
 **Vercel Analytics Dashboard:**
-- Access: https://vercel.com/cr-audioviz-ai/crav-javari/analytics
+- Access: https://vercel.com/cr-audioviz-ai/javari-javari/analytics
 - Shows: Traffic, performance, error rates
 
 **Supabase Dashboard:**

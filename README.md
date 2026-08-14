@@ -11,7 +11,7 @@ This repository contains **ALL** documentation for the CR AudioViz AI platform. 
 - 💻 **Developers** - Technical implementation & code standards
 - 🎧 **Helpdesk** - Customer support & troubleshooting
 - 📚 **Self-Help** - Customer knowledge base & tutorials
-- 🤖 **AI/Bots/Avatars** - Learning corpus for Javari, CRAI, Kairo, Pulse, Scout
+- 🤖 **AI/Bots/Avatars** - Learning corpus for Javari, JAVARI, Kairo, Pulse, Scout
 
 ---
 
@@ -112,7 +112,7 @@ All documentation is structured for both human and AI consumption:
 **AI Access Pattern:**
 ```typescript
 // Javari AI can read docs via GitHub API
-const docs = await fetch('https://raw.githubusercontent.com/CR-AudioViz-AI/crav-documentation/main/...')
+const docs = await fetch('https://raw.githubusercontent.com/CR-AudioViz-AI/javari-documentation/main/...')
 const context = await docs.text()
 // Use for learning, answering questions, self-healing
 ```
@@ -139,9 +139,9 @@ const context = await docs.text()
 
 ## 🔗 RELATED REPOSITORIES
 
-- [Main Website](https://github.com/CR-AudioViz-AI/crav-website)
-- [Javari AI](https://github.com/CR-AudioViz-AI/crav-javari)
-- [Admin Dashboard](https://github.com/CR-AudioViz-AI/crav-admin)
+- [Main Website](https://github.com/CR-AudioViz-AI/javari-website)
+- [Javari AI](https://github.com/CR-AudioViz-AI/javari-javari)
+- [Admin Dashboard](https://github.com/CR-AudioViz-AI/javari-admin)
 - [All Repos](https://github.com/orgs/CR-AudioViz-AI/repositories)
 
 ---
@@ -165,6 +165,6 @@ MIT License - See [LICENSE](./LICENSE) file
 
 ---
 
-**Repository:** github.com/CR-AudioViz-AI/crav-documentation  
+**Repository:** github.com/CR-AudioViz-AI/javari-documentation  
 **Website:** craudiovizai.com  
 **Status:** 🟢 Active Development

@@ -3,7 +3,7 @@
 
 **Last Updated:** November 21, 2025 - 4:28 PM EST  
 **Status:** 95% Complete, Final Deployment Needed  
-**Repository:** CR-AudioViz-AI/crav-javari  
+**Repository:** CR-AudioViz-AI/javari-javari  
 **Live URL:** javariai.com (currently has issues)
 
 ---

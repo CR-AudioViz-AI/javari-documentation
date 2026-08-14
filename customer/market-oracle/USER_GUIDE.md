@@ -8,7 +8,7 @@ intelligence battles it out to find the next big winners in the stock market!
 
 ## 🚀 Quick Start (30 seconds)
 
-1. Visit: https://crav-market-oracle.vercel.app
+1. Visit: https://craudiovizai.com/apps/market-oracle
 2. Browse the dashboard to see all 106 AI picks
 3. Click any stock to see why the AI picked it
 4. Vote on which AI you think will win!

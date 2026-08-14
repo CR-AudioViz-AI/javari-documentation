@@ -894,7 +894,7 @@ curl https://craudiovizai.com/api/bots/conductor
 ### Internal Resources
 - Admin Dashboard: https://craudiovizai.com/admin
 - Bot Status: https://craudiovizai.com/bots/status
-- Documentation: https://github.com/CR-AudioViz-AI/crav-documentation
+- Documentation: https://github.com/CR-AudioViz-AI/javari-documentation
 
 ### External Support
 - Vercel: https://vercel.com/support

@@ -2,7 +2,7 @@
 
 **Last Updated:** November 8, 2025  
 **Status:** 95% Complete - Deployment Blocked  
-**Repository:** CR-AudioViz-AI/crav-javari  
+**Repository:** CR-AudioViz-AI/javari-javari  
 **Live URL:** javari.craudiovizai.com (when deployed)  
 **Priority:** CRITICAL - Flagship Product
 
@@ -933,7 +933,7 @@ Help Roy build CR AudioViz AI to $1M ARR by being the most capable autonomous AI
 - Cross-app navigation
 - Shared user profiles
 
-### CRAIverse Integration
+### Javariverse Integration
 - Avatar-based interface
 - Virtual world presence
 - Community features
@@ -952,8 +952,8 @@ Help Roy build CR AudioViz AI to $1M ARR by being the most capable autonomous AI
 ### Local Development
 ```bash
 # Clone repository
-git clone https://github.com/CR-AudioViz-AI/crav-javari.git
-cd crav-javari
+git clone https://github.com/CR-AudioViz-AI/javari-javari.git
+cd javari-javari
 
 # Install dependencies
 npm install

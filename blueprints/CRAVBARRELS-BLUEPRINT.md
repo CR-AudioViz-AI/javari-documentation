@@ -1,4 +1,4 @@
-# CRAVBARRELS - MASTER BLUEPRINT
+# JAVARISPIRITS - MASTER BLUEPRINT
 ## Complete Asset, Image, History, Training, Law & Monetization Specification
 ### Generated: December 22, 2025 | CR AudioViz AI
 
@@ -6,7 +6,7 @@
 
 ## 🎯 EXECUTIVE SUMMARY
 
-CRAVBarrels will be the **ultimate spirits collector and enthusiast platform** - combining:
+Javari Spirits will be the **ultimate spirits collector and enthusiast platform** - combining:
 - **22,000+ spirits database** with real images (not placeholders)
 - **Museum-grade historical content** (Prohibition, mob history, vintage ads)
 - **Training & certification prep** programs

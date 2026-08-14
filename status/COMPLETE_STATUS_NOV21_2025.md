@@ -22,7 +22,7 @@ simply haven't been set up yet (missing package.json, etc.)
 
 ## 2. UNIFIED APP EMBEDDING SYSTEM ✅
 
-**Created 3 new files in crav-website:**
+**Created 3 new files in javari-website:**
 
 ### lib/app-embedder.ts (17 apps configured)
 - App registry with full metadata
@@ -63,23 +63,23 @@ simply haven't been set up yet (missing package.json, etc.)
 - Verification checklist
 
 **17 apps ready for Javari integration:**
-1. crav-ebook-creator
-2. crav-logo-studio
-3. crav-site-builder
-4. crav-pdf-builder
-5. crav-builder
-6. crav-legalease
-7. crav-market-oracle
-8. crav-news-compare
-9. crav-competitive-intelligence
-10. crav-games
-11. crav-javari
+1. javari-ebook-creator
+2. javari-logo-studio
+3. javari-site-builder
+4. javari-pdf-builder
+5. javari-builder
+6. javari-legalease
+7. javari-market-oracle
+8. javari-news-compare
+9. javari-competitive-intelligence
+10. javari-games
+11. javari-javari
 12. agentos-platform
 13. cr-realtor-platform
 14. javari-fcc-scraper
 15. javari-intelligence-layer
 16. javari-mdn-scraper
-17. crav-website
+17. javari-website
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📊 CURRENT PLATFORM STATUS
@@ -125,7 +125,7 @@ simply haven't been set up yet (missing package.json, etc.)
 - ✅ **NEW:** Games platform embedded
 - 🔨 1,150 more games needed
 
-## CRAIverse: 5%
+## Javariverse: 5%
 - ✅ Concept & architecture
 - 🔨 Avatar system
 - 🔨 Virtual worlds
@@ -185,13 +185,13 @@ For each of the 17 working apps:
 **Impact:** $980K additional ARR potential
 
 Apps to fix (need repo structure):
-1. crav-newsletter (Newsletter creator)
-2. crav-music-builder (Music composition)
-3. crav-social-graphics (Social media graphics)
-4. crav-invoice-generator (Invoice creation)
-5. crav-verifyforge (Testing platform)
-6. crav-analytics-dashboard (Analytics)
-7. crav-admin (Admin dashboard)
+1. javari-newsletter (Newsletter creator)
+2. javari-music-builder (Music composition)
+3. javari-social-graphics (Social media graphics)
+4. javari-invoice-generator (Invoice creation)
+5. javari-verifyforge (Testing platform)
+6. javari-analytics-dashboard (Analytics)
+7. javari-admin (Admin dashboard)
 
 For each app:
 1. Add proper package.json
@@ -240,7 +240,7 @@ Breakdown:
 - Main Website: 95% ✅
 - Apps: 28% (17/60) 🔨
 - Games: 4% (50/1,200) 🔨
-- CRAIverse: 5% 🔨
+- Javariverse: 5% 🔨
 - Admin Dashboard: 75% 🔨
 
 **Revenue Readiness: $2.4M ARR**

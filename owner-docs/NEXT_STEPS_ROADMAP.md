@@ -327,7 +327,7 @@ Build complete Supabase schema for Realtor Ecosystem:
 ## 📁 DOCUMENTATION STATUS
 
 **All docs now in GitHub:** ✅
-- Repository: https://github.com/CR-AudioViz-AI/crav-documentation
+- Repository: https://github.com/CR-AudioViz-AI/javari-documentation
 - Location: /owner-docs/
 - Auto-update: Configured
 

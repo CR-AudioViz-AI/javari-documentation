@@ -1,13 +1,13 @@
-# CRAIverse Virtual World - User Guide
+# Javariverse Virtual World - User Guide
 
 **Your Avatar-Based Community Platform**  
 **Updated:** November 21, 2025 - 12:05 PM EST
 
 ---
 
-## Welcome to CRAIverse! 🌍
+## Welcome to Javariverse! 🌍
 
-CRAIverse is your personal virtual world where you connect with others through customizable avatars, explore communities, attend events, and access specialized support modules—all while maintaining your privacy and real-world identity.
+Javariverse is your personal virtual world where you connect with others through customizable avatars, explore communities, attend events, and access specialized support modules—all while maintaining your privacy and real-world identity.
 
 **Unlike other virtual worlds:**
 - 🎯 **Purpose-Built** for social impact and real communities
@@ -39,7 +39,7 @@ CRAIverse is your personal virtual world where you connect with others through c
 3. **Virtual Vehicle**
    - Basic transportation
    - Upgrades available
-   - Travel CRAIverse quickly
+   - Travel Javariverse quickly
    - Customizable appearance
 
 4. **Community Placement**
@@ -277,7 +277,7 @@ National Level: United States
 
 ## 20 Social Impact Modules
 
-CRAIverse includes specialized modules serving underserved communities. Access is free for qualifying members.
+Javariverse includes specialized modules serving underserved communities. Access is free for qualifying members.
 
 ### 1. First Responders Haven 🚨
 
@@ -603,10 +603,10 @@ CRAIverse includes specialized modules serving underserved communities. Access i
 
 ## Virtual Economy
 
-### CRAIverse Credits
+### Javariverse Credits
 
 **Separate from Platform Credits:**
-- CRAIverse uses same credit system
+- Javariverse uses same credit system
 - Earn through activities
 - Purchase with real money
 - Spend on virtual items
@@ -769,8 +769,8 @@ CRAIverse includes specialized modules serving underserved communities. Access i
 - FAQ library
 
 **External Support:**
-- Email: craiverse@craudiovizai.com
-- Discord: #craiverse-support
+- Email: javariverse@craudiovizai.com
+- Discord: #javariverse-support
 - Help Center: help.craudiovizai.com
 - Phone: (239) 555-0100 (business hours)
 
@@ -779,9 +779,9 @@ CRAIverse includes specialized modules serving underserved communities. Access i
 **Ask The Community:**
 - Community forums
 - Facebook group
-- Reddit: r/craiverse
+- Reddit: r/javariverse
 - Discord server
-- Twitter: @craiverse
+- Twitter: @javariverse
 
 ---
 
@@ -823,7 +823,7 @@ CRAIverse includes specialized modules serving underserved communities. Access i
 5. **Explore Daily** - New content added regularly
 6. **Be Respectful** - Build positive community
 7. **Try Modules** - Specialized support available
-8. **Make Friends** - CRAIverse is better together
+8. **Make Friends** - Javariverse is better together
 9. **Attend Workshops** - Learn new skills
 10. **Have Fun** - That's what it's for!
 
@@ -834,7 +834,7 @@ CRAIverse includes specialized modules serving underserved communities. Access i
 - **Create Content** - Sell in marketplace
 - **Network Actively** - Business opportunities abound
 - **Help Newbies** - Good karma returns
-- **Stay Updated** - Follow CRAIverse news
+- **Stay Updated** - Follow Javariverse news
 - **Provide Feedback** - Shape the future
 - **Explore Modules** - Hidden gems everywhere
 
@@ -842,7 +842,7 @@ CRAIverse includes specialized modules serving underserved communities. Access i
 
 ## FAQ
 
-**Q: Is CRAIverse really free?**  
+**Q: Is Javariverse really free?**  
 A: Yes! Avatar, home, vehicle, and basic features are 100% free. Optional upgrades available.
 
 **Q: Do I have to use my real name?**  
@@ -851,13 +851,13 @@ A: No. You can be completely anonymous if you prefer.
 **Q: Is it safe for kids?**  
 A: Age 13+ with parental supervision. Youth module has extra protections.
 
-**Q: Can I make money in CRAIverse?**  
+**Q: Can I make money in Javariverse?**  
 A: Yes! Sell creations in marketplace, host paid events, offer services.
 
 **Q: Do I need VR equipment?**  
 A: No. Desktop, mobile, and tablet work fine. VR is optional enhancement.
 
-**Q: Can businesses use CRAIverse?**  
+**Q: Can businesses use Javariverse?**  
 A: Absolutely! Many modules designed for businesses, networking, events.
 
 **Q: How do I report problems?**  
@@ -868,8 +868,8 @@ A: Yes, anytime. Settings → Delete Account. All data removed within 30 days.
 
 ---
 
-**Welcome to CRAIverse. Your world. Your community. Your story. 🌍**
+**Welcome to Javariverse. Your world. Your community. Your story. 🌍**
 
 ---
 
-*CRAIverse User Guide updated monthly. Last update: November 21, 2025*
+*Javariverse User Guide updated monthly. Last update: November 21, 2025*

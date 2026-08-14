@@ -46,7 +46,7 @@
 curl -X POST https://api.github.com/orgs/CR-AudioViz-AI/repos \
   -H "Authorization: token [REDACTED_GITHUB_TOKEN]" \
   -d '{
-    "name": "crav-new-app",
+    "name": "javari-new-app",
     "description": "New application",
     "private": false,
     "auto_init": true
@@ -56,7 +56,7 @@ curl -X POST https://api.github.com/orgs/CR-AudioViz-AI/repos \
 **Via GitHub Website:**
 1. Go to https://github.com/CR-AudioViz-AI
 2. Click "New repository"
-3. Name: crav-[app-name]
+3. Name: javari-[app-name]
 4. Public/Private: Public
 5. Initialize with README: Yes
 6. Click "Create repository"
@@ -65,8 +65,8 @@ curl -X POST https://api.github.com/orgs/CR-AudioViz-AI/repos \
 
 ```bash
 # Clone repository
-git clone https://github.com/CR-AudioViz-AI/crav-new-app.git
-cd crav-new-app
+git clone https://github.com/CR-AudioViz-AI/javari-new-app.git
+cd javari-new-app
 
 # Add Next.js project
 npx create-next-app@latest . --typescript --tailwind --app --no-src-dir
@@ -104,7 +104,7 @@ git push origin main
 1. Go to https://vercel.com
 2. Click "Add New..." → "Project"
 3. Import Git Repository
-4. Select CR-AudioViz-AI/crav-new-app
+4. Select CR-AudioViz-AI/javari-new-app
 5. Configure:
    - Framework Preset: Next.js
    - Root Directory: ./
@@ -118,10 +118,10 @@ curl -X POST https://api.vercel.com/v13/deployments \
   -H "Authorization: Bearer [REDACTED_TOKEN][REDACTED_VERCEL_TOKEN]" \
   -H "Content-Type: application/json" \
   -d '{
-    "name": "crav-new-app",
+    "name": "javari-new-app",
     "gitSource": {
       "type": "github",
-      "repo": "CR-AudioViz-AI/crav-new-app",
+      "repo": "CR-AudioViz-AI/javari-new-app",
       "ref": "main"
     },
     "target": "production"

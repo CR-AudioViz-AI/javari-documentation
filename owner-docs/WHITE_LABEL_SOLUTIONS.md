@@ -32,7 +32,7 @@ Turn CR AudioViz AI into your own branded platform. License our technology, rebr
 - Financial Tracker
 - All premium features
 
-**CRAIverse Virtual World:**
+**Javariverse Virtual World:**
 - Avatar system
 - Community spaces
 - Custom modules
@@ -85,7 +85,7 @@ Turn CR AudioViz AI into your own branded platform. License our technology, rebr
 **Includes:**
 - Up to 100 users
 - All 60+ tools
-- Basic CRAIverse
+- Basic Javariverse
 - Standard support
 - Monthly updates
 - 99% uptime SLA
@@ -106,7 +106,7 @@ Turn CR AudioViz AI into your own branded platform. License our technology, rebr
 **Includes:**
 - Up to 500 users
 - All tools + priority features
-- Full CRAIverse access
+- Full Javariverse access
 - Priority support
 - Custom branding
 - API access

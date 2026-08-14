@@ -85,7 +85,7 @@ Once you've created your first project, explore:
 
 - **📁 My Projects:** See everything you've created
 - **🎮 Games:** Play 1,200+ games (free!)
-- **🌍 CRAIverse:** Explore virtual worlds
+- **🌍 Javariverse:** Explore virtual worlds
 - **🛒 Marketplace:** Sell your creations
 - **💬 Community:** Connect with other creators
 
@@ -120,7 +120,7 @@ Credits are your universal currency for creating on the platform.
 - 50 credits monthly (resets each month)
 - Access to all 60+ tools
 - Unlimited games
-- Basic CRAIverse access
+- Basic Javariverse access
 - Community support
 
 **Limitations:**
@@ -197,7 +197,7 @@ Your dashboard is command central. Here's what you'll see:
 - **Dashboard:** Overview and quick actions
 - **Tools:** All 60+ creative applications
 - **Games:** 1,200+ games library
-- **CRAIverse:** Virtual worlds and communities
+- **Javariverse:** Virtual worlds and communities
 - **My Projects:** Everything you've created
 - **Marketplace:** Buy/sell templates and services
 - **Support:** Help center and chat
@@ -515,7 +515,7 @@ Found a template or color scheme you love? Save it to favorites for instant acce
 - ✅ Create multi-item project
 - ✅ Use advanced features (layers, effects)
 - ✅ Try marketplace (buy or sell)
-- ✅ Explore CRAIverse
+- ✅ Explore Javariverse
 
 **Week 4: Mastery**
 - ✅ Create portfolio of your best work

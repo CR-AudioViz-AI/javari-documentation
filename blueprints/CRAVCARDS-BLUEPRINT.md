@@ -1,4 +1,4 @@
-# CRAVCARDS - TRADING CARDS MASTER BLUEPRINT
+# JAVARICARDS - TRADING CARDS MASTER BLUEPRINT
 ## Complete API, Asset, Game, Law & Monetization Specification
 ### Generated: December 22, 2025 | CR AudioViz AI
 
@@ -6,7 +6,7 @@
 
 ## 🎯 EXECUTIVE SUMMARY
 
-CRAVCards will be the **ultimate trading card collector platform** supporting:
+Javari Cards will be the **ultimate trading card collector platform** supporting:
 - **Pokémon TCG** - 15,000+ cards
 - **Magic: The Gathering** - 25,000+ cards
 - **Yu-Gi-Oh!** - 12,000+ cards
